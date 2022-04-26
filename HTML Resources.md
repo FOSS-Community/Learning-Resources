@@ -21,3 +21,7 @@
 - ![freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - ![Build 30 things in 30 days with 30 tutorials](https://javascript30.com/)
 
+# Tailwind CSS
+- ![Docs](https://tailwindcss.com/docs/installation)
+- ![The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
+
