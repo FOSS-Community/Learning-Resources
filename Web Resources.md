@@ -21,7 +21,30 @@
 - ![freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - ![Build 30 things in 30 days with 30 tutorials](https://javascript30.com/)
 
-# Tailwind CSS
+# Tailwind CSS:
 - ![Docs](https://tailwindcss.com/docs/installation)
 - ![The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
 
+# ReactJS:
+- ![Docs](https://reactjs.org/docs/getting-started.html)
+- ![freeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
+- ![freeCodeCamp(Youtube)](https://www.youtube.com/watch?v=bMknfKXIFA8&feature=youtu.be)
+
+# NextJS:
+- ![Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH)
+- ![The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw)
+
+# VueJS:
+- ![Docs](https://v2.vuejs.org/v2/guide/installation.html?redirect=true)
+- ![Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
+
+# ThreeJS:
+- ![Chris Courses](https://www.youtube.com/watch?v=YK1Sw_hnm58)
+- ![Docs](https://threejs.org/docs/)
+
+# React Native:
+- ![The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
+- ![Docs](https://reactnative.dev/docs/tutorial)
+# Electron:
+- [Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW)
+- ![Docs](https://www.electronjs.org/docs/latest)
