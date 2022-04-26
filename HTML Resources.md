@@ -3,7 +3,7 @@
 
 <h4>After completing the full track, try your hands on <a href="https://codedamn.com/100-days-of-projects">100 Days of Projects</a></h4>
 
- <h3>Also, try to get more comfortable with reading documentations - ![Mozilla Web Docs](https://developer.mozilla.org/en-US/)</h3>
+ Also, try to get more comfortable with reading documentations - ![Mozilla Web Docs](https://developer.mozilla.org/en-US/)
 
 # HTML Resources:
 - ![The Net Ninja(HTML+CSS)](https://youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
