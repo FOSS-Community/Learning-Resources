@@ -11,3 +11,4 @@ Watch upto Session 6 of this course from MIT OpenCourseWare
 - For that, refer to the 'Fundamentals' section of the [Web2 Roadmap](https://bit.ly/3NDRzXe).
 - Learn about Relational Databases and APIs from the same roadmap.
 
+## Ethereum:
