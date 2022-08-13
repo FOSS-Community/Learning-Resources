@@ -18,4 +18,4 @@ Watch upto Session 6 of this course from MIT OpenCourseWare
 - To connect your FrontEnd with the Blockchain.
 - I personally recommend learning Ether.js as it gets an edge over size and additional features.
 - [Ether.js](https://youtu.be/yk7nVp5HTCk) 
-- [Web3.js]()
+- [Web3.js](https://www.youtube.com/playlist?list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN)
