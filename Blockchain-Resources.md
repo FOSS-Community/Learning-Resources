@@ -7,3 +7,7 @@ Watch upto Session 6 of this course from MIT OpenCourseWare
 
 ## Fundamentals of Web2 Development:
 
+- Before getting on to Web3 Development, you need to learn the basics of Web2 Development
+- For that, refer to the 'Fundamentals' section of the [Web2 Roadmap](https://bit.ly/3NDRzXe).
+- Learn about Relational Databases and APIs from the same roadmap.
+
