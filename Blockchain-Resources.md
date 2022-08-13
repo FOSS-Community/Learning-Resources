@@ -12,3 +12,5 @@ Watch upto Session 6 of this course from MIT OpenCourseWare
 - Learn about Relational Databases and APIs from the same roadmap.
 
 ## Ethereum:
+- Learn about Ethereum from the Co-Founder itself at the DevCon- [Ethereum](https://youtu.be/gjwr-7PgpN8).
+
