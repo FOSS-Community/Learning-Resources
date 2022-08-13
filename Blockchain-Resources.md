@@ -15,3 +15,7 @@ Watch upto Session 6 of this course from MIT OpenCourseWare
 - Learn about Ethereum from the Co-Founder itself at the DevCon- [Ethereum](https://youtu.be/gjwr-7PgpN8).
 
 ## Web3.js or Ether.js:
+- To connect your FrontEnd with the Blockchain.
+- I personally recommend learning Ether.js as it gets an edge over size and additional features.
+- [Ether.js](https://youtu.be/yk7nVp5HTCk) 
+- [Web3.js]()
